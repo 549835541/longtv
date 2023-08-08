@@ -7,7 +7,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=./file/xhrlive.txt"
           ]
         }
       ]
