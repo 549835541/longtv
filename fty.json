@@ -13,14 +13,14 @@
       "filterable": 0
     },
     {
-      "key": "iqiyi",
-      "name": "🔏官源|奇异【20230803】",
+      "key": "yt",
+      "name": "📳APP|影探",
       "type": 3,
-      "api": "csp_IQIYI",
-      "quickSearch":1,
+      "api": "csp_App",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://yt123.lfytyl.com/api.php/app/"
     },
     {
       "key": "csp_Biliych",
