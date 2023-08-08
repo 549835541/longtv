@@ -5,7 +5,7 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "redirect",
+          "name": "lives",
           "urls": [
             "proxy://do=live&type=txt&ext=./file/xhrlive.txt"
           ]
