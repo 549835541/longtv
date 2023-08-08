@@ -17,8 +17,9 @@
       "name": "🔏官源|奇异【20230803】",
       "type": 3,
       "api": "csp_IQIYI",
+      "quickSearch":1,
       "searchable": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 0
     },
     {
