@@ -1,0 +1,283 @@
+{
+	"sites": [
+		{
+			"key": "csp_77",
+			"name": "┃SP┃七七影视",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "csp_Nmys",
+			"name": "┃SP┃农民影视",
+			"type": 3,
+			"api": "csp_Nmys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/nmys.json"
+		},
+		{
+			"key": "团团",
+			"name": "┃XB┃饭团影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./jar/小暴脾气7.jar",
+			"ext": "./json/饭团影视2.json"
+		},
+		{
+			"key": "csp_xBPQ_6v",
+			"name": " ┃CL┃六六磁力",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./json/6v电影.json",
+			"jar": "./jar/小暴脾气7.jar"
+		},
+		{
+			"key": "csp_XYQHiker_电影港磁力",
+			"name": "┃CL┃影港磁力",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/电影港.json",
+			"jar": "./jar/XYQHiker.jar"
+		},
+		{
+			"key": "荐片",
+			"name": "┃CL┃荐片磁力",
+			"type": 3,
+			"playerType": "1",
+			"api": "./lib/drpy2.min.js",
+			"ext": "./js/荐片.js"
+		},
+		{
+			"key": "测试AP",
+			"name": "┃AP┃测试影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://117.175.212.198:8088/api.php/app/"
+		},
+		{
+			"key": "csp_aidi",
+			"name": "┃AP┃爱迪影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"ext": "https://aidiapp.xyz/xgapp.php/v2/"
+		},
+		{
+			"key": "影探",
+			"name": "┃AP┃影探影视",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://ytcms.lfytyl.com/api.php/app/"
+		},
+		{
+			"key": "新浪云播",
+			"name": "云播🔀新浪云播",
+			"type": 1,
+			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"动作片",
+				"爱情片",
+				"科幻片",
+				"战争片",
+				"剧情片",
+				"恐怖片",
+				"喜剧片",
+				"大陆剧",
+				"港澳剧",
+				"台湾剧",
+				"欧美剧",
+				"动漫电影",
+				"韩剧",
+				"日剧",
+				"泰剧"
+			]
+		},
+		{
+			"key": "红牛资源",
+			"name": "云播🔀红牛云播",
+			"type": 1,
+			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"国产剧",
+				"港澳剧",
+				"欧美剧",
+				"台湾剧",
+				"日剧",
+				"韩剧",
+				"泰剧",
+				"综艺",
+				"动漫",
+				"纪录片",
+				"动漫电影"
+			]
+		},
+		{
+			"key": "If_js_ikanbot",
+			"name": "┃点播┃威尼斯集",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "./js/爱看机器人API.js"
+		},
+		{
+			"key": "drpy_js_厂长资源",
+			"name": "┃JS┃厂长资源",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./js/厂长资源.js"
+		},
+		{
+			"key": "drpy_js_虎牙直播",
+			"name": "┃JS┃虎牙直播",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./js/虎牙直播.js"
+		},
+		{
+			"key": "drpy_js_酷狗MV",
+			"name": "┃JS┃ 酷狗音乐",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./js/酷狗MV.js"
+		},
+		{
+			"key": "drpy_js_酷奇MV",
+			"name": "┃JS┃酷奇音乐",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./js/酷奇MV.js"
+		},
+		{
+			"key": "PanSou",
+			"name": "┃云盘┃盘搜资源",
+			"type": 3,
+			"api": "csp_PanSou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+		},
+		{
+			"key": "push_agent",
+			"name": "┃云盘┃本地推送",
+			"type": 3,
+			"api": "csp_Push",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+		}
+	],
+	"parses": [
+		{
+			"name": "Json聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "自动嗅探",
+			"type": 3,
+			"url": "Web",
+			"ext": {
+				"header": {
+					"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79"
+				}
+			}
+		},
+		{
+			"name": "虾米嗅探",
+			"type": 0,
+			"url": "https://jx.xmflv.com/?url="
+		},
+		{
+			"name": "OK嗅探",
+			"type": 0,
+			"url": "https://okjx.cc/?url="
+		},
+		{
+			"name": "测试嗅探",
+			"type": 0,
+			"url": "https://jx.jsonplayer.com/player/?url="
+		},
+		{
+			"name": "爱豆嗅探",
+			"type": 0,
+			"url": "https://jx.aidouer.net/?url="
+		}
+	],
+	"flags": [
+		"qq",
+		"QQ",
+		"iqiyi",
+		"qiyi",
+		"letv",
+		"youku",
+		"sohu",
+		"tudou",
+		"pptv",
+		"PPTV",
+		"mgtv",
+		"ltnb",
+		"rx",
+		"CL4K",
+		"xfyun",
+		"wuduzy",
+		"wasu",
+		"bilibili",
+		"renrenmi",
+		"xmm",
+		"xigua",
+		"m1905",
+		"funshion",
+		"优酷",
+		"芒果",
+		"腾讯",
+		"爱奇艺",
+		"奇艺",
+		"哔哩哔哩",
+		"哔哩",
+		"douyin"
+	],
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"adblock": "https://m3u8.co/json/?url=",
+	"spider": "./jar/tvbox0602.jar"
+}
