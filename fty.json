@@ -3,61 +3,6 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "js豆豆",
-      "name": "微信：白天不懂也得黑（549835541）",
-      "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/drpy.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "iqiyi",
-      "name": "🔏官源|奇异【20230803】",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "qq",
-      "name": "🔏官源|腾讯",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "mgtv",
-      "name": "🔏官源|芒果",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "youku",
-      "name": "🔏官源|优酷",
-      "type": 3,
-      "api": "csp_YOUKU",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "360kan",
-      "name": "🔏官源|360",
-      "type": 3,
-      "api": "csp_KAN360",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
       "key": "csp_Bili",
       "name": "🅱哔哔┃合集",
       "type": 3,
