@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "js豆豆",
-      "name": "微信公众号【神秘的哥哥们】关注防失联",
+      "name": "微信【白天不懂夜的黑】号549835541关注防失联",
       "type": 3,
       "api": "./lib/drpy1.min.js",
       "ext": "./lib/drpy.js",
