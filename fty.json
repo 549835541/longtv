@@ -13,17 +13,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_XYQHiker_非凡影视",
-      "name": "🐭非凡┃龙龙",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable":1,
-      "ext": "./lib/非凡影视.json"
-    },
-    {
       "key": "csp_Biliych",
       "name": "🅱哔哔┃演唱会",
       "type": 3,
