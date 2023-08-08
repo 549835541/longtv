@@ -13,13 +13,15 @@
       "filterable": 0
     },
     {
-      "key": "yt",
-      "name": "📳APP|影探",
-      "type": 1,
-      "api": "http://yt123.lfytyl.com/api.php/app/",
+      "key": "csp_XYQHiker_非凡影视",
+      "name": "🐭非凡┃龙龙",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "filterable":1,
+      "ext": "./lib/非凡影视.json"
     },
     {
       "key": "csp_Biliych",
