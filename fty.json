@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "js豆豆",
-      "name": "微信公众号【神秘的哥哥们】关注防失联",
+      "name": "微信：白天不懂也得黑（549835541）",
       "type": 3,
       "api": "./lib/drpy1.min.js",
       "ext": "./lib/drpy.js",
@@ -56,16 +56,6 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
-    },
-    {
-      "key": "cctv",
-      "name": "🔏官源|央视",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "./lib/cctv.json"
     },
     {
       "key": "csp_Bili",
