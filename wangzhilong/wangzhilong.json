@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "iqiyi",
-      "name": "🔏官源|奇异【20230803】",
+      "name": "王志龙👑官源|奇异【20230803】",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -25,7 +25,7 @@
     },
     {
       "key": "qq",
-      "name": "🔏官源|腾讯",
+      "name": "王志龙👑官源|腾讯",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -34,7 +34,7 @@
     },
     {
       "key": "mgtv",
-      "name": "🔏官源|芒果",
+      "name": "王志龙👑官源|芒果",
       "type": 3,
       "api": "csp_MGTV",
       "searchable": 1,
@@ -43,7 +43,7 @@
     },
     {
       "key": "youku",
-      "name": "🔏官源|优酷",
+      "name": "王志龙👑官源|优酷",
       "type": 3,
       "api": "csp_YOUKU",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },
     {
       "key": "360kan",
-      "name": "🔏官源|360",
+      "name": "王志龙👑官源|360",
       "type": 3,
       "api": "csp_KAN360",
       "searchable": 1,
@@ -61,7 +61,7 @@
     },
     {
       "key": "cctv",
-      "name": "🔏官源|央视",
+      "name": "王志龙👑官源|央视",
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "bili",
-      "name": "🔏官源|B站",
+      "name": "王志龙👑官源|B站",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -81,7 +81,7 @@
     },
     {
       "key": "wnvod",
-      "name": "🎦影视|万能",
+      "name": "王志龙👑影视|万能",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "auete",
-      "name": "🎦影视|奥特",
+      "name": "王志龙👑影视|奥特",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "jubaibai",
-      "name": "🎦影视|剧白",
+      "name": "王志龙👑影视|剧白",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "libvio",
-      "name": "🎦影视|LIBVIO",
+      "name": "王志龙👑影视|LIBVIO",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -121,7 +121,7 @@
     },
     {
       "key": "yanaifei",
-      "name": "🎦影视|奈飞",
+      "name": "王志龙👑影视|奈飞",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -131,7 +131,7 @@
     },
     {
       "key": "348z",
-      "name": "🎦影视|348电影",
+      "name": "王志龙👑影视|348电影",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -141,7 +141,7 @@
     },
     {
       "key": "Czspp",
-      "name": "🎦影视|厂长",
+      "name": "王志龙👑影视|厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -151,7 +151,7 @@
     },
     {
       "key": "qiqi",
-      "name": "🎦影视|七七",
+      "name": "王志龙👑影视|七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -160,7 +160,7 @@
     },
     {
       "key": "nm",
-      "name": "🎦影视|农民",
+      "name": "王志龙👑影视|农民",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -170,7 +170,7 @@
     },
     {
       "key": "freeok",
-      "name": "🎦影视|FreeOk",
+      "name": "王志龙👑影视|FreeOk",
       "type": 3,
       "api": "csp_WebFreeOk",
       "searchable": 1,
@@ -180,7 +180,7 @@
     },
     {
       "key": "cokemv",
-      "name": "🎦影视|Cokemv",
+      "name": "王志龙👑影视|Cokemv",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -190,7 +190,7 @@
     },
     {
       "key": "dyxs",
-      "name": "🎦影视|先生",
+      "name": "王志龙👑影视|先生",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -200,7 +200,7 @@
     },
     {
       "key": "ruyi",
-      "name": "📳APP|如意",
+      "name": "王志龙👑APP|如意",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
@@ -210,7 +210,7 @@
     },
     {
       "key": "ky",
-      "name": "📳APP|酷影",
+      "name": "王志龙👑APP|酷影",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
@@ -220,7 +220,7 @@
     },
     {
       "key": "yt",
-      "name": "📳APP|影探",
+      "name": "王志龙👑APP|影探",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
@@ -230,7 +230,7 @@
     },
     {
       "key": "yinfans",
-      "name": "🧲磁力|音范",
+      "name": "王志龙👑磁力|音范",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -240,7 +240,7 @@
     },
     {
       "key": "4k",
-      "name": "🧲磁力|4KHDR",
+      "name": "王志龙👑磁力|4KHDR",
       "type": 3,
       "api": "csp_XPathAli",
       "searchable": 1,
@@ -250,7 +250,7 @@
     },
     {
       "key": "mp4ba",
-      "name": "🧲磁力|MP4",
+      "name": "王志龙👑磁力|MP4",
       "type": 3,
       "api": "csp_XPathT2M",
       "searchable": 1,
@@ -260,7 +260,7 @@
     },
     {
       "key": "seedhub",
-      "name": "🧲磁力|SEED",
+      "name": "王志龙👑磁力|SEED",
       "type": 3,
       "api": "csp_Seedhub",
       "searchable": 1,
@@ -269,7 +269,7 @@
     },
     {
       "key": "bt0",
-      "name": "🧲磁力|不太灵",
+      "name": "王志龙👑磁力|不太灵",
       "type": 3,
       "api": "csp_Bt0",
       "searchable": 1,
@@ -279,7 +279,7 @@
     },
     {
       "key": "my4k",
-      "name": "🧲磁力|蚂蚁4K",
+      "name": "王志龙👑磁力|蚂蚁4K",
       "type": 3,
       "api": "csp_XPathAli",
       "searchable": 1,
@@ -289,7 +289,7 @@
     },
     {
       "key": "dyg",
-      "name": "🧲磁力|电影港",
+      "name": "王志龙👑磁力|电影港",
       "type": 3,
       "api": "csp_Mdygang",
       "searchable": 0,
@@ -298,7 +298,7 @@
     },
     {
       "key": "jp",
-      "name": "🚄秒播|荐片",
+      "name": "王志龙👑秒播|荐片",
       "type": 3,
       "api": "csp_RinHome",
       "searchable": 1,
@@ -307,7 +307,7 @@
     },
     {
       "key": "lzi",
-      "name": "📫资源|量子",
+      "name": "王志龙👑资源|量子",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
@@ -317,7 +317,7 @@
     },
     {
       "key": "ffzy",
-      "name": "📫资源|非凡",
+      "name": "王志龙👑资源|非凡",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
@@ -327,7 +327,7 @@
     },
     {
       "key": "AliYunPan",
-      "name": "💽网盘|登录",
+      "name": "王志龙👑网盘|登录",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 1,
@@ -337,7 +337,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "💽网盘|盘搜",
+      "name": "王志龙👑网盘|盘搜",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -347,7 +347,7 @@
     },
     {
       "key": "PanSou",
-      "name": "💽网盘|猫盘",
+      "name": "王志龙👑网盘|猫盘",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -357,7 +357,7 @@
     },
     {
       "key": "UpYun",
-      "name": "💽网盘|Up云",
+      "name": "王志龙👑网盘|Up云",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -367,7 +367,7 @@
     },
     {
       "key": "YiSou",
-      "name": "💽网盘|易搜",
+      "name": "王志龙👑网盘|易搜",
       "type": 3,
       "api": "csp_YiSou",
       "searchable": 1,
@@ -377,7 +377,7 @@
     },
     {
       "key": "Wogg",
-      "name": "💽网盘|玩偶",
+      "name": "王志龙👑网盘|玩偶",
       "type": 3,
       "api": "csp_XPathAli",
       "searchable": 1,
@@ -387,7 +387,7 @@
     },
     {
       "key": "yc",
-      "name": "💽网盘|影巢",
+      "name": "王志龙👑网盘|影巢",
       "type": 3,
       "api": "csp_Hdhive",
       "searchable": 1,
@@ -397,7 +397,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "💽网盘|找资源",
+      "name": "王志龙👑网盘|找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -407,7 +407,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "💽网盘|小纸条",
+      "name": "王志龙👑网盘|小纸条",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -417,7 +417,7 @@
     },
     {
       "key": "push_agent",
-      "name": "👑辅助|推送",
+      "name": "王志龙👑辅助|推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
