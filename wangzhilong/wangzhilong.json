@@ -7,7 +7,7 @@
         {
           "name": "lives",
           "urls": [
-            "proxy://do=live&type=txt&ext=./file/xhrlive.txt"
+            "proxy://do=live&type=txt&ext=https://gitee.com/zhilongtv/longtv/raw/master/wangzhilong/live.txt"
           ]
         }
       ]
