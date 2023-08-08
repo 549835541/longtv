@@ -13,14 +13,13 @@
       "filterable": 0
     },
     {
-      "key": "csp_Bili",
-      "name": "🅱哔哔┃合集",
+      "key": "iqiyi",
+      "name": "🔏官源|奇异【20230803】",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_IQIYI",
       "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/bilibili.json"
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "csp_Biliych",
