@@ -30,15 +30,6 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/zb.json"
     },
     {
-      "key": "MV_vod",
-      "name": "龙龙🎹┃MTV┃合集",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "js_ikanbot2",
       "name": "龙龙🤖┃爱看┃机器",
       "type": 3,
@@ -1197,16 +1188,6 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/meinv.py"
     },
     {
-      "key": "py_yanchh",
-      "name": "龙龙🅱️┃歌手┃合集",
-      "type": 3,
-      "api": "py_yanchh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/geshou.py"
-    },
-    {
       "key": "py_Nvtuan",
       "name": "龙龙🅱️┃女团┃热舞",
       "type": 3,
@@ -1215,26 +1196,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/nvtuan.py"
-    },
-    {
-      "key": "py_MTV",
-      "name": "龙龙🅱️┃歌曲┃视频",
-      "type": 3,
-      "api": "py_MTV",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/mtv.py"
-    },
-    {
-      "key": "py_Yinl2",
-      "name": "龙龙🅱️┃音悦┃合集",
-      "type": 3,
-      "api": "py_Yinl2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/yinyue.py"
     },
     {
       "key": "js_哔哩直播",
