@@ -21,7 +21,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "龙龙🍥┃电视┃点播",
+      "name": "龙龙📺︎┃电视┃点播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/zbzdb.js",
       "searchable": 1,
@@ -31,7 +31,7 @@
     },
     {
       "key": "js_ikanbot2",
-      "name": "龙龙🍥┃爱看┃机器",
+      "name": "龙龙🤖┃爱看┃机器",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "新片热播",
-      "name": "龙龙🍥┃新片┃热播",
+      "name": "龙龙🔷┃新片┃热播",
       "type": 1,
       "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -54,7 +54,7 @@
     },
     {
       "key": "js_baby",
-      "name": "龙龙🍥┃宝宝┃合集",
+      "name": "龙龙👶┃宝宝┃合集",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -64,7 +64,7 @@
     },
     {
       "key": "js_童趣",
-      "name": "龙龙🍥┃童趣┃搜视",
+      "name": "龙龙🧗‍┃童趣┃搜视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -74,7 +74,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "龙龙🍥┃轻简┃影视",
+      "name": "龙龙🚈┃轻简┃影视",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -86,7 +86,7 @@
     },
     {
       "key": "骑骑影院",
-      "name": "龙龙🍥┃骑骑┃影院",
+      "name": "龙龙🚵┃骑骑┃影院",
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
@@ -97,7 +97,7 @@
     },
     {
       "key": "js_悠米",
-      "name": "龙龙🍥‍┃悠米┃搜视",
+      "name": "龙龙🎉‍┃悠米┃搜视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -107,7 +107,7 @@
     },
     {
       "key": "csp_aidi",
-      "name": "龙龙🍥┃爱迪┃高清",
+      "name": "龙龙🤟┃爱迪┃高清",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -117,14 +117,14 @@
     },
     {
       "key": "apv2_瑞丰",
-      "name": "龙龙🍥┃瑞丰┃影视",
+      "name": "龙龙⛄┃瑞丰┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
       "key": "csp_mdd",
-      "name": "龙龙🍥┃蛋蛋┃影视",
+      "name": "龙龙🥚┃蛋蛋┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -134,7 +134,7 @@
     },
     {
       "key": "csp_蘑菇影视",
-      "name": "龙龙🍥┃蘑菇┃影视",
+      "name": "龙龙🍄┃蘑菇┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -144,7 +144,7 @@
     },
     {
       "key": "csp_yayaya",
-      "name": "龙龙🍥┃耐菲┃影视",
+      "name": "龙龙👧┃耐菲┃影视",
       "api": "csp_AppYsV2",
       "type": 3,
       "filterable": 1,
@@ -154,7 +154,7 @@
     },
     {
       "key": "csp_beijihu",
-      "name": "龙龙🍥┃极狐┃影视",
+      "name": "龙龙🎪┃极狐┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -164,7 +164,7 @@
     },
     {
       "key": "cjzy_暴风资源",
-      "name": "龙龙🍥┃暴风┃影视",
+      "name": "龙龙🎈┃暴风┃影视",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -190,7 +190,7 @@
     },
     {
       "key": "csp_woggcli",
-      "name": "龙龙🍥‍┃玩偶┃磁力",
+      "name": "龙龙💂‍┃玩偶┃磁力",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg",
       "searchable": 1,
@@ -200,7 +200,7 @@
     },
     {
       "key": "聚搜磁力",
-      "name": "龙龙🍥‍┃聚搜┃磁力",
+      "name": "龙龙🍵‍┃聚搜┃磁力",
       "type": 4,
       "api": "http://home.jundie.top:9520/ali/cli_Alii",
       "searchable": 1,
@@ -210,7 +210,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "龙龙🍥‍┃阿里┃玩偶",
+      "name": "龙龙💂‍┃阿里┃玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -220,7 +220,7 @@
     },
     {
       "key": "XYQaL_4kHDR",
-      "name": "龙龙🍥┃玩偶┃姐姐",
+      "name": "龙龙👩‍⚕️┃玩偶┃姐姐",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHikerAL",
@@ -229,7 +229,7 @@
     },
     {
       "key": "cps_aliyunpan",
-      "name": "龙龙🍥┃玩偶┃妹妹",
+      "name": "龙龙👩‍🔬┃玩偶┃妹妹",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "jar": "https://jihulab.com/duomv/duox/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
@@ -237,7 +237,7 @@
     },
     {
       "key": "js_磁力熊",
-      "name": "龙龙🍥龙龙🍥龙龙🍥龙龙🍥龙龙🍥龙龙🍥‍┃贝尔┃磁力",
+      "name": "龙龙🐻‍┃贝尔┃磁力",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -247,7 +247,7 @@
     },
     {
       "key": "XYQH_电影港",
-      "name": "龙龙🍥┃港口┃磁力",
+      "name": "龙龙🛳┃港口┃磁力",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
@@ -256,7 +256,7 @@
     },
     {
       "key": "js_秒看",
-      "name": "龙龙🍥‍┃秒看┃影视",
+      "name": "龙龙⚡️‍┃秒看┃影视",
       "type": 3,
       "playerType": 2,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
@@ -267,7 +267,7 @@
     },
     {
       "key": "js_荐片",
-      "name": "龙龙🍥┃荐片┃影视",
+      "name": "龙龙⏳┃荐片┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/荐片.js",
@@ -278,7 +278,7 @@
     },
     {
       "key": "js_在线之家",
-      "name": "龙龙🍥┃超前┃影视",
+      "name": "龙龙🏞︎‍┃超前┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -288,7 +288,7 @@
     },
     {
       "key": "csp_七夜",
-      "name": "龙龙🍥┃阿里┃七夜",
+      "name": "龙龙🔎┃阿里┃七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -298,7 +298,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "龙龙🍥‍┃阿里┃PanS",
+      "name": "龙龙🏵️‍┃阿里┃PanS",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -308,7 +308,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "龙龙🍥┃阿里┃云搜",
+      "name": "龙龙🌤️┃阿里┃云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -318,7 +318,7 @@
     },
     {
       "key": "Alips",
-      "name": "龙龙🍥┃阿里┃盘搜",
+      "name": "龙龙📀┃阿里┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -328,7 +328,7 @@
     },
     {
       "key": "Yisou",
-      "name": "龙龙🍥┃阿里┃易搜",
+      "name": "龙龙🎯┃阿里┃易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -338,7 +338,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "龙龙🍥┃阿里┃找片",
+      "name": "龙龙🔍┃阿里┃找片",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -348,7 +348,7 @@
     },
     {
       "key": "csp_FreeOK",
-      "name": "龙龙🍥┃富瑞┃影院",
+      "name": "龙龙💰️┃富瑞┃影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -358,7 +358,7 @@
     },
     {
       "key": "csp_茉莉",
-      "name": "龙龙🍥┃茉莉┃EXO",
+      "name": "龙龙🌼┃茉莉┃EXO",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -368,7 +368,7 @@
     },
     {
       "key": "csp_御龙",
-      "name": "龙龙🍥┃御龙┃高清",
+      "name": "龙龙🐉┃御龙┃高清",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -378,7 +378,7 @@
     },
     {
       "key": "csp_奇优",
-      "name": "龙龙🍥┃奇优┃影院",
+      "name": "龙龙🧼┃奇优┃影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -388,7 +388,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "龙龙🍥┃非凡┃资源",
+      "name": "龙龙🥗┃非凡┃资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -425,7 +425,7 @@
     },
     {
       "key": "量子资源",
-      "name": "龙龙🍥┃量子┃资源",
+      "name": "龙龙🥑┃量子┃资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -451,7 +451,7 @@
     },
     {
       "key": "csp_YQKAPP",
-      "name": "龙龙🍥┃一起┃电视",
+      "name": "龙龙👨‍👩‍👧‍👦┃一起┃电视",
       "type": 3,
       "api": "csp_YQKAPP",
       "searchable": 1,
@@ -461,7 +461,7 @@
     },
     {
       "key": "js_农民",
-      "name": "龙龙🍥┃农民┃影视",
+      "name": "龙龙👨‍🌾┃农民┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -471,7 +471,7 @@
     },
     {
       "key": "js_酷客",
-      "name": "龙龙🍥┃酷客┃影院",
+      "name": "龙龙😎┃酷客┃影院",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -481,7 +481,7 @@
     },
     {
       "key": "js_bzys",
-      "name": "龙龙🍥┃B站┃影视",
+      "name": "龙龙🌋┃B站┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -491,7 +491,7 @@
     },
     {
       "key": "csp_jbb",
-      "name": "龙龙🍥┃剧白┃影视",
+      "name": "龙龙🦢┃剧白┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -501,7 +501,7 @@
     },
     {
       "key": "XBPQ_石榴",
-      "name": "龙龙🍥┃石榴┃影视",
+      "name": "龙龙Ⓜ┃石榴┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -511,7 +511,7 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "龙龙🍥┃厂长┃资源",
+      "name": "龙龙🏭️┃厂长┃资源",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -522,7 +522,7 @@
     },
     {
       "key": "js_Lib",
-      "name": "龙龙🍥┃利奥┃影视",
+      "name": "龙龙🍲┃利奥┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -532,7 +532,7 @@
     },
     {
       "key": "csp_MeiJu69",
-      "name": "龙龙🍥┃六九┃美剧",
+      "name": "龙龙🗽┃六九┃美剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -542,7 +542,7 @@
     },
     {
       "key": "js_ddys",
-      "name": "龙龙🍥┃低端┃影视",
+      "name": "龙龙🐞┃低端┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -552,7 +552,7 @@
     },
     {
       "key": "js_稀饭",
-      "name": "龙龙🍥┃稀饭┃影视",
+      "name": "龙龙🍚┃稀饭┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -562,7 +562,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "龙龙🍥┃快看┃影视",
+      "name": "龙龙🦋┃快看┃影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -571,7 +571,7 @@
     },
     {
       "key": "csp_Dy1010",
-      "name": "龙龙🍥┃双十┃影院",
+      "name": "龙龙💯┃双十┃影院",
       "type": 3,
       "api": "csp_Dy1010",
       "searchable": 1,
@@ -580,7 +580,7 @@
     },
     {
       "key": "csp_AppMr",
-      "name": "龙龙🍥┃二明┃影视",
+      "name": "龙龙🦍┃二明┃影视",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -589,7 +589,7 @@
     },
     {
       "key": "js_大师兄",
-      "name": "龙龙🍥┃师兄┃影视",
+      "name": "龙龙🐵┃师兄┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -599,7 +599,7 @@
     },
     {
       "key": "js_电影先生",
-      "name": "龙龙🍥┃电影┃先生",
+      "name": "龙龙🤵┃电影┃先生",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -609,7 +609,7 @@
     },
     {
       "key": "drpy_js_乐猪",
-      "name": "龙龙🍥┃乐猪┃影视",
+      "name": "龙龙🐷┃乐猪┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -619,7 +619,7 @@
     },
     {
       "key": "csp_胖虎",
-      "name": "龙龙🍥┃胖虎┃影视",
+      "name": "龙龙🐯┃胖虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -629,7 +629,7 @@
     },
     {
       "key": "js_小狗影院",
-      "name": "龙龙🍥┃小狗┃影院",
+      "name": "龙龙🐶┃小狗┃影院",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -639,7 +639,7 @@
     },
     {
       "key": "csp_Lgyy",
-      "name": "龙龙🍥┃蓝光┃影院",
+      "name": "龙龙🌀┃蓝光┃影院",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
@@ -649,7 +649,7 @@
     },
     {
       "key": "csp_Vofl",
-      "name": "龙龙🍥┃VoFl┃资源",
+      "name": "龙龙🧿┃VoFl┃资源",
       "type": 3,
       "api": "csp_Voflix",
       "searchable": 1,
@@ -658,7 +658,7 @@
     },
     {
       "key": "drpy_js_创艺",
-      "name": "龙龙🍥┃创艺┃影视",
+      "name": "龙龙🍸️┃创艺┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -668,7 +668,7 @@
     },
     {
       "key": "360_spider",
-      "name": "龙龙🍥┃三六┃影视",
+      "name": "龙龙💫┃三六┃影视",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -677,7 +677,7 @@
     },
     {
       "key": "js_酷云",
-      "name": "龙龙🍥┃七七┃影视",
+      "name": "龙龙🍁┃七七┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -687,7 +687,7 @@
     },
     {
       "key": "js_企鹅",
-      "name": "龙龙🍥┃企鹅┃基地",
+      "name": "龙龙🐧┃企鹅┃基地",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -697,7 +697,7 @@
     },
     {
       "key": "js_奇异",
-      "name": "龙龙🍥┃奇异┃大厂",
+      "name": "龙龙🥝┃奇异┃大厂",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -707,7 +707,7 @@
     },
     {
       "key": "js_芒果",
-      "name": "龙龙🍥┃芒芒┃大厂",
+      "name": "龙龙🥭┃芒芒┃大厂",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -717,7 +717,7 @@
     },
     {
       "key": "js_优酷",
-      "name": "龙龙🍥┃油库┃大厂",
+      "name": "龙龙👑┃油库┃大厂",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -727,7 +727,7 @@
     },
     {
       "key": "js_菜狗",
-      "name": "龙龙🍥┃菜狗┃大厂",
+      "name": "龙龙🐕️┃菜狗┃大厂",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -737,7 +737,7 @@
     },
     {
       "key": "zy_新浪",
-      "name": "龙龙🍥┃新浪┃资源",
+      "name": "龙龙🏄🏻┃新浪┃资源",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -767,7 +767,7 @@
     },
     {
       "key": "api_xml_搜糊",
-      "name": "️龙龙🍥┃搜糊┃影视",
+      "name": "️龙龙🦊┃搜糊┃影视",
       "type": 1,
       "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
       "playUrl": "https://jx.777jiexi.com/player/?url=",
@@ -799,7 +799,7 @@
     },
     {
       "key": "js_Xinsj",
-      "name": "龙龙🍥┃视觉┃影院",
+      "name": "龙龙🐠┃视觉┃影院",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -809,7 +809,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "龙龙🍥┃央视┃大全",
+      "name": "龙龙❤️┃央视┃大全",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -819,7 +819,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "龙龙🍥┃影视┃工厂",
+      "name": "龙龙🎬️┃影视┃工厂",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -829,7 +829,7 @@
     },
     {
       "key": "csp_骚火",
-      "name": "龙龙🍥┃骚火┃电影",
+      "name": "龙龙🔥┃骚火┃电影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -839,7 +839,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "龙龙🍥┃可乐┃影视",
+      "name": "龙龙🎀┃可乐┃影视",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -848,7 +848,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "龙龙🍥┃Auet┃影视",
+      "name": "龙龙🐼┃Auet┃影视",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -857,7 +857,7 @@
     },
     {
       "key": "csp_Btwtoo",
-      "name": "龙龙🍥┃两个┃鼻涕",
+      "name": "龙龙✌┃两个┃鼻涕",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -866,7 +866,7 @@
     },
     {
       "key": "js_酷狗MV",
-      "name": "龙龙🍥┃酷狗┃音乐",
+      "name": "龙龙🎻┃酷狗┃音乐",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -876,7 +876,7 @@
     },
     {
       "key": "js_a8音乐",
-      "name": "龙龙🍥┃奥迪┃音乐",
+      "name": "龙龙🎸┃奥迪┃音乐",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -886,7 +886,7 @@
     },
     {
       "key": "csp_酷奇",
-      "name": "龙龙🍥┃酷奇┃音乐",
+      "name": "龙龙🎤┃酷奇┃音乐",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
@@ -896,7 +896,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "龙龙🍥┃动漫┃系列",
+      "name": "龙龙🌸┃动漫┃系列",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -905,7 +905,7 @@
     },
     {
       "key": "js路漫漫",
-      "name": "龙龙🍥┃漫漫┃动漫",
+      "name": "龙龙👩‍🎨┃漫漫┃动漫",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 0,
@@ -915,7 +915,7 @@
     },
     {
       "key": "去看动漫",
-      "name": "龙龙🍥┃去看┃动漫",
+      "name": "龙龙🎊┃去看┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -925,7 +925,7 @@
     },
     {
       "key": "动漫直链",
-      "name": "龙龙🍥┃动漫┃直链",
+      "name": "龙龙🎭┃动漫┃直链",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -935,7 +935,7 @@
     },
     {
       "key": "csp_风车动漫",
-      "name": "龙龙🍥┃风车┃动漫",
+      "name": "龙龙🍭┃风车┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -945,7 +945,7 @@
     },
     {
       "key": "csp_动漫巴士",
-      "name": "龙龙🍥┃动漫┃巴士",
+      "name": "龙龙🤖┃动漫┃巴士",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -955,7 +955,7 @@
     },
     {
       "key": "py_qie",
-      "name": "龙龙🍥┃企鹅┃体育",
+      "name": "龙龙🏀┃企鹅┃体育",
       "type": 3,
       "api": "py_qie",
       "searchable": 0,
@@ -965,7 +965,7 @@
     },
     {
       "key": "csp_鹅直播",
-      "name": "龙龙🍥┃企鹅┃直播",
+      "name": "龙龙🏀┃企鹅┃直播",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -975,7 +975,7 @@
     },
     {
       "key": "csp_17看球",
-      "name": "龙龙🍥┃一起┃直播",
+      "name": "龙龙⚽┃一起┃直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -985,7 +985,7 @@
     },
     {
       "key": "js_310直播",
-      "name": "龙龙🍥┃三一┃直播",
+      "name": "龙龙🥎┃三一┃直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -995,7 +995,7 @@
     },
     {
       "key": "js_88看球",
-      "name": "龙龙🍥┃八八┃看球",
+      "name": "龙龙🏀┃八八┃看球",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 0,
@@ -1005,7 +1005,7 @@
     },
     {
       "key": "js_JRS直播",
-      "name": "龙龙🍥┃JRS┃直播",
+      "name": "龙龙⚽┃JRS┃直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -1015,7 +1015,7 @@
     },
     {
       "key": "js_JRKAN直播",
-      "name": "龙龙🍥┃JRK┃看球",
+      "name": "龙龙🥎┃JRK┃看球",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -1025,7 +1025,7 @@
     },
     {
       "key": "js_直播",
-      "name": "龙龙🍥┃JRK┃直播",
+      "name": "龙龙🏀┃JRK┃直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 0,
@@ -1035,7 +1035,7 @@
     },
     {
       "key": "csp_Bili",
-      "name": "龙龙🍥┃哔哩┃合集",
+      "name": "龙龙🅱️┃哔哩┃合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -1046,7 +1046,7 @@
     },
     {
       "key": "py_dashan",
-      "name": "龙龙🍥┃搭讪┃教程",
+      "name": "龙龙💋┃搭讪┃教程",
       "type": 3,
       "api": "py_dashan",
       "searchable": 0,
@@ -1056,7 +1056,7 @@
     },
     {
       "key": "py_dapei",
-      "name": "龙龙🍥┃搭配┃教程",
+      "name": "龙龙💃┃搭配┃教程",
       "type": 3,
       "api": "py_dapei",
       "searchable": 0,
@@ -1066,7 +1066,7 @@
     },
     {
       "key": "js_B站精简",
-      "name": "龙龙🍥┃哔哩┃精简",
+      "name": "龙龙🅱️┃哔哩┃精简",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 0,
@@ -1076,7 +1076,7 @@
     },
     {
       "key": "py_meishi",
-      "name": "龙龙🍥┃美食┃合集",
+      "name": "龙龙🅱️┃美食┃合集",
       "type": 3,
       "api": "py_meishi",
       "searchable": 0,
@@ -1086,7 +1086,7 @@
     },
     {
       "key": "py_youer",
-      "name": "龙龙🍥┃幼儿┃教育",
+      "name": "龙龙🅱️┃幼儿┃教育",
       "type": 3,
       "api": "py_youer",
       "searchable": 0,
@@ -1096,7 +1096,7 @@
     },
     {
       "key": "py_xiaoxue",
-      "name": "龙龙🍥┃小学┃教育",
+      "name": "龙龙🅱️┃小学┃教育",
       "type": 3,
       "api": "py_xiaoxue",
       "searchable": 0,
@@ -1106,7 +1106,7 @@
     },
     {
       "key": "py_czxx",
-      "name": "龙龙🍥┃初中┃教育",
+      "name": "龙龙🅱️┃初中┃教育",
       "type": 3,
       "api": "py_czxx",
       "searchable": 0,
@@ -1116,7 +1116,7 @@
     },
     {
       "key": "py_gaozxx",
-      "name": "龙龙🍥┃高中┃教育",
+      "name": "龙龙🅱️┃高中┃教育",
       "type": 3,
       "api": "py_gaozxx",
       "searchable": 0,
@@ -1126,7 +1126,7 @@
     },
     {
       "key": "py_zyy",
-      "name": "龙龙🍥┃中医┃药区",
+      "name": "龙龙🅱️┃中医┃药区",
       "type": 3,
       "api": "py_zyy",
       "searchable": 0,
@@ -1136,7 +1136,7 @@
     },
     {
       "key": "py_xuqu1",
-      "name": "龙龙🍥┃戏曲┃合集",
+      "name": "龙龙🅱️┃戏曲┃合集",
       "type": 3,
       "api": "py_xuqu1",
       "searchable": 0,
@@ -1146,7 +1146,7 @@
     },
     {
       "key": "py_TYjs",
-      "name": "龙龙🍥┃体育┃健身",
+      "name": "龙龙🅱️┃体育┃健身",
       "type": 3,
       "api": "py_TYjs",
       "searchable": 0,
@@ -1156,7 +1156,7 @@
     },
     {
       "key": "py_xiangsh",
-      "name": "龙龙🍥┃相声┃小品",
+      "name": "龙龙🅱️┃相声┃小品",
       "type": 3,
       "api": "py_xiangsh",
       "searchable": 0,
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "py_FBqx",
-      "name": "龙龙🍥┃球队┃球星",
+      "name": "龙龙🅱️┃球队┃球星",
       "type": 3,
       "api": "py_FBqx",
       "searchable": 0,
@@ -1176,7 +1176,7 @@
     },
     {
       "key": "py_Meinvw",
-      "name": "龙龙🍥┃美女┃舞蹈",
+      "name": "龙龙🅱️┃美女┃舞蹈",
       "type": 3,
       "api": "py_Meinvw",
       "searchable": 0,
@@ -1186,7 +1186,7 @@
     },
     {
       "key": "py_yanchh",
-      "name": "龙龙🍥┃歌手┃合集",
+      "name": "龙龙🅱️┃歌手┃合集",
       "type": 3,
       "api": "py_yanchh",
       "searchable": 0,
@@ -1196,7 +1196,7 @@
     },
     {
       "key": "py_Nvtuan",
-      "name": "龙龙🍥┃女团┃热舞",
+      "name": "龙龙🅱️┃女团┃热舞",
       "type": 3,
       "api": "py_Nvtuan",
       "searchable": 0,
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "py_MTV",
-      "name": "龙龙🍥┃歌曲┃视频",
+      "name": "龙龙🅱️┃歌曲┃视频",
       "type": 3,
       "api": "py_MTV",
       "searchable": 0,
@@ -1216,7 +1216,7 @@
     },
     {
       "key": "py_Yinl2",
-      "name": "龙龙🍥┃音悦┃合集",
+      "name": "龙龙🅱️┃音悦┃合集",
       "type": 3,
       "api": "py_Yinl2",
       "searchable": 0,
@@ -1226,7 +1226,7 @@
     },
     {
       "key": "js_哔哩直播",
-      "name": "龙龙🍥┃哔哩┃直播",
+      "name": "龙龙🅱️┃哔哩┃直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 0,
@@ -1236,7 +1236,7 @@
     },
     {
       "key": "短视频",
-      "name": "龙龙🍥┃网红┃美女",
+      "name": "龙龙📱┃网红┃美女",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
@@ -1246,7 +1246,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "龙龙🍥┃直播┃合集",
+      "name": "龙龙👑┃直播┃合集",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -1255,7 +1255,7 @@
     },
     {
       "key": "py_huya",
-      "name": "龙龙🍥┃虎牙┃[PY]",
+      "name": "龙龙🐯┃虎牙┃[PY]",
       "type": 3,
       "api": "py_huya",
       "searchable": 0,
@@ -1265,7 +1265,7 @@
     },
     {
       "key": "csp_虎牙",
-      "name": "龙龙🍥┃虎牙┃直播",
+      "name": "龙龙🐯┃虎牙┃直播",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 0,
@@ -1275,7 +1275,7 @@
     },
     {
       "key": "js_斗鱼直播",
-      "name": "龙龙🍥┃斗鱼┃直播",
+      "name": "龙龙🦈┃斗鱼┃直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 0,
@@ -1285,7 +1285,7 @@
     },
     {
       "key": "网易CC",
-      "name": "龙龙🍥┃网易┃[CC]",
+      "name": "龙龙🐠┃网易┃[CC]",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -1295,7 +1295,7 @@
     },
     {
       "key": "csp_dadagui",
-      "name": "龙龙🍥┃达龟┃影视",
+      "name": "龙龙🐢┃达龟┃影视",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -1305,7 +1305,7 @@
     },
     {
       "key": "csp_金眼",
-      "name": "龙龙🍥┃金眼┃影视",
+      "name": "龙龙🌟┃金眼┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1315,7 +1315,7 @@
     },
     {
       "key": "push_agent",
-      "name": "龙龙🍥┃影视┃推送",
+      "name": "龙龙📨┃影视┃推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -1325,7 +1325,7 @@
     },
     {
       "key": "提示",
-      "name": "王志龙：微信：549835541",
+      "name": "王志龙 微信：549835541",
       "type": 3,
       "api": "360",
       "searchable": 1,
@@ -1334,7 +1334,7 @@
     },
     {
       "key": "说明",
-      "name": "王志龙：微信：549835541",
+      "name": "王志龙 微信：549835541",
       "type": 3,
       "api": "360",
       "searchable": 1,
