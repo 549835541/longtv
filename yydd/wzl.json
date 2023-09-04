@@ -36,20 +36,6 @@
       "ext": "http://饭太硬.top/x/json/bilibili.json"
     },
     {
-      "key": "Biliych",
-      "name": "龙龙🅱哔哔┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/biliych.json"
-    },
-    {
       "key": "YGP",
       "name": "龙龙🚀叨观荐影┃速递",
       "type": 3,
