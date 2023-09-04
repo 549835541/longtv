@@ -22,20 +22,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
     },
     {
-      "key": "Bili",
-      "name": "龙龙🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/bilibili.json"
-    },
-    {
       "key": "YGP",
       "name": "龙龙🚀叨观荐影┃速递",
       "type": 3,
