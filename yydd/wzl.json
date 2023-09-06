@@ -41,7 +41,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
+   // {
       "key": "4KHDR",
       "name": "龙龙🧲世界磁力┃慎用",
       "type": 3,
@@ -51,7 +51,7 @@
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"
     },
-    {
+   // {
       "key": "新6V",
       "name": "龙龙🧲新6V磁力┃慎用",
       "type": 3,
@@ -410,7 +410,7 @@
       "changeable": 0,
       "ext": "http://饭太硬.top/x/xp/企鹅直播.json"
     },
-    {
+   // {
       "key": "MV_vod",
       "name": "龙龙🎶明星┃MV",
       "type": 1,
