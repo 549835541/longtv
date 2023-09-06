@@ -345,14 +345,14 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
+   // {
       "key": "csp_Yj1211",
       "name": "龙龙📽️网红┃直播",
       "type": 3,
       "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "88js",
@@ -418,7 +418,7 @@
       "style": {
         "type": "oval"
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
