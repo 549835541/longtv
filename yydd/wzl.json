@@ -12,6 +12,17 @@
       "filterable": 0
     },
     {
+      "key": "Gitcafe",
+      "name": "龙龙🐉小纸条(新)",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "token;desc"
+    },
+    {
       "key": "csp_WoGG",
       "name": "龙龙👽玩偶哥哥┃4K",
       "type": 3,
