@@ -12,16 +12,13 @@
       "filterable": 0
     },
     {
-      "key": "Gitcafe",
-      "name": "龙龙🐉小纸条(新)",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "token;desc"
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/wzl1.jar"
+      "key":"火狐",
+      "name":"龙龙🐉采集 | 火狐",
+      "type":0,
+      "api":"https://hhzyapi.com/api.php/provide/vod/at/xml",
+      "searchable":1,
+      "changeable":1,
+      "categories":["电视剧","电影","动漫","综艺"]
     },
     {
       "key": "csp_WoGG",
