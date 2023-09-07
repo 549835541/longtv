@@ -78,6 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
     },
     {
       "key": "360_spider",
@@ -87,6 +88,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1
+      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
     },
     {
       "key": "csp_XYQHiker_非凡影视",
@@ -97,6 +99,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XYQHiker/非凡影视.json"
+      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
     },
     {
       "key": "csp_XYQHiker_555影视",
@@ -107,6 +110,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XYQHiker/555影视.json"
+      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
     },
     {
       "key": "csp_XYQHiker_双十电影",
@@ -117,6 +121,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XYQHiker/双十电影.json"
+      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
     },
     {
       "key": "YGP",
