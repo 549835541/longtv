@@ -110,26 +110,6 @@
       "changeable": 1
     },
     {
-      "key": "率率",
-      "name": "龙龙💡率率┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://s.ether-mine.com/api.php/app/"
-    },
-    {
-      "key": "Auete",
-      "name": "龙龙🏝奥特┃直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "zxzj",
       "name": "龙龙📗在线┃直连",
       "type": 3,
@@ -149,17 +129,6 @@
       "playerType": "1",
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
-    },
-    {
-      "key": "探探",
-      "name": "龙龙🏵影探┃App",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "哈喽",
@@ -210,15 +179,6 @@
       "changeable": 1
     },
     {
-      "key": "Vofl",
-      "name": "龙龙🎈VOF┃直连",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Lib",
       "name": "龙龙🌟利播┃直连",
       "type": 3,
@@ -227,16 +187,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.libvio.fun/"
-    },
-    {
-      "key": "Xinsj",
-      "name": "龙龙👓视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
     },
     {
       "key": "AppMr",
@@ -257,16 +207,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://api-aws.11ty.top"
-    },
-    {
-      "key": "Cokemv",
-      "name": "龙龙📕可乐┃直连",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "csp_Nmys",
@@ -526,62 +466,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "龙龙📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "龙龙📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "龙龙📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "龙龙📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://饭太硬.top/x/json/高中课堂.json"
     },
     {
       "key": "ext_live_protocol",
