@@ -80,6 +80,15 @@
       "filterable": 1
     },
     {
+      "key": "360_spider",
+      "name": "龙龙🐞360影视",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+    {
       "key": "YGP",
       "name": "龙龙🚀叨观荐影┃速递",
       "type": 3,
