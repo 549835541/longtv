@@ -70,16 +70,6 @@
          "ext":"http://jh.dytt996.com:990/api.php/app/"
     }, 
     {
-      "key": "瑞丰",
-      "name": "🌈彩虹影视",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/小米.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-    },
-    {
       "key": "4KHDR",
       "name": "龙龙🧲世界磁力┃慎用",
       "type": 3,
