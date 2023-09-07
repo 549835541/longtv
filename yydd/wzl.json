@@ -4,28 +4,21 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "龙龙丨微信549835541",
+      "name": "龙龙🐉┃微信549835541",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
     {
       "key": "drpy_js_荐片",
-      "name": "龙龙 | 荐片 ",
+      "name": "龙龙🐉┃荐片┃ ",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
     },
     {
-      "key": "drpy_js_爱看机器人",
-      "name": "龙龙 | 爱看 ",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
-    },
-    {
       "key":"火狐",
-      "name":"龙龙🐉采集 | 火狐",
+      "name":"龙龙🐉┃采集┃火狐┃",
       "type":0,
       "api":"https://hhzyapi.com/api.php/provide/vod/at/xml",
       "searchable":1,
@@ -480,7 +473,7 @@
     },
     {
       "key": "ext_live_protocol",
-      "name": "龙龙",
+      "name": "┃龙龙┃",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -489,7 +482,7 @@
     },
     {
       "key": "cc",
-      "name": "微信：549835541",
+      "name": "┃微信：549835541┃",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -498,27 +491,27 @@
   ],
   "parses": [
     {
-      "name":"量子",
+      "name":"┃量子┃",
       "hosts":[".cdnlz",".lz"],
       "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.705700,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
     }, 
     {
-      "name": "龙龙聚合1",
+      "name": "┃龙龙┃聚合1┃",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "龙龙聚合0",
+      "name": "┃龙龙┃聚合0┃",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "龙龙",
+      "name": "┃龙龙┃",
       "type": 1,
       "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
     {
-      "name": "龙龙解析",
+      "name": "龙龙┃解析",
       "type": 1,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
@@ -546,22 +539,22 @@
       }
     },
     {
-      "name": "全部",
+      "name": "┃全部┃",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
     {
-      "name": "来自",
+      "name": "┃来自┃",
       "type": 0,
       "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
     },
     {
-      "name": "网络",
+      "name": "┃网络┃",
       "type": 1,
       "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
     },
     {
-      "name": "大家",
+      "name": "┃大家┃",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -633,7 +626,7 @@
   ],
   "rules": [
     {
-      "name": "龙龙lz",
+      "name": "龙龙┃lz",
       "hosts": [
         "vip.lz",
         "hd.lz"
@@ -644,7 +637,7 @@
       ]
     },
     {
-      "name": "龙龙ff",
+      "name": "龙龙┃ff",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -655,7 +648,7 @@
       ]
     },
     {
-      "name": "龙龙bf",
+      "name": "龙龙┃bf",
       "hosts": [
         "bfzy",
         "s5.bfzycdn"
@@ -666,7 +659,7 @@
       ]
     },
     {
-      "name": "龙龙hs",
+      "name": "龙龙┃hs",
       "hosts": [
         "huoshan.com"
       ],
@@ -675,7 +668,7 @@
       ]
     },
     {
-      "name": "龙龙dy",
+      "name": "龙龙┃dy",
       "hosts": [
         "douyin.com"
       ],
@@ -684,7 +677,7 @@
       ]
     },
     {
-      "name": "龙龙cl",
+      "name": "龙龙┃cl",
       "hosts": [
         "magnet"
       ],
@@ -697,7 +690,7 @@
   ],
   "lives": [
     {
-      "name": "龙龙live",
+      "name": "龙龙┃live",
       "type": 0,
       "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
       "playerType": 1,
