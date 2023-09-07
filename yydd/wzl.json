@@ -70,69 +70,6 @@
          "ext":"http://jh.dytt996.com:990/api.php/app/"
     }, 
     {
-      "key": "csp_JianPian",
-      "name": "龙龙🔨荐片",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
-    },
-    {
-      "key": "360_spider",
-      "name": "龙龙🐞360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
-    },
-    {
-      "key": "csp_XYQHiker_非凡影视",
-      "name": "龙龙🐉非凡",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/非凡影视.json"
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
-    },
-    {
-      "key": "csp_XYQHiker_555影视",
-      "name": "龙龙🐉555",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/555影视.json"
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
-    },
-    {
-      "key": "csp_XYQHiker_双十电影",
-      "name": "龙龙🐉双十",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/双十电影.json"
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
-    },
-    {
-      "key": "YGP",
-      "name": "龙龙🚀叨观荐影┃速递",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-   {
       "key": "4KHDR",
       "name": "龙龙🧲世界磁力┃慎用",
       "type": 3,
@@ -142,7 +79,7 @@
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"
     },
-   {
+    {
       "key": "新6V",
       "name": "龙龙🧲新6V磁力┃慎用",
       "type": 3,
