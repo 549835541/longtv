@@ -21,7 +21,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./biliext/幼儿乐园.json"
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
     },
     {
       "key": "csp_JianPian",
@@ -32,7 +31,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
     },
     {
       "key":"火狐",
