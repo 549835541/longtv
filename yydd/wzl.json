@@ -612,6 +612,11 @@
   ],
   "parses": [
     {
+      "name":"量子",
+      "hosts":[".cdnlz",".lz"],
+      "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.705700,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+    }, 
+    {
       "name": "龙龙聚合1",
       "type": 3,
       "url": "Demo"
