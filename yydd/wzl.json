@@ -60,16 +60,6 @@
       "ext": "http://s.ether-mine.com/api.php/app/"
     }, 
     {
-      "key":"迷你库",
-      "name":"龙龙🐉┃迷你库┃2K┃",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://www.miniku.cc/xgapp.php/v1/"
-    }, 
-    {
       "key":"北极狐", 
       "name": "龙龙🐉┃北极狐┃2K┃", 
       "type": 3, 
