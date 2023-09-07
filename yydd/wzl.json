@@ -13,27 +13,6 @@
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/douban.js"
     },
     {
-      "key": "csp_Bili幼儿",
-      "name": "🐞哔哩幼儿",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./biliext/幼儿乐园.json"
-      "jar":"https://gitee.com/zhilongtv/longtv/raw/master/yydd/XYQ.jar"
-    },
-    {
-      "key": "csp_JianPian",
-      "name": "🔨荐片",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key":"火狐",
       "name":"龙龙🐉采集 | 火狐",
       "type":0,
