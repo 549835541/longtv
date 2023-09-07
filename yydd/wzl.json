@@ -248,15 +248,6 @@
       "ext": "https://www.6080yy3.com/"
     },
     {
-      "key": "kuaikan",
-      "name": "龙龙👀快看┃App",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "AppMr",
       "name": "龙龙👻明明┃App",
       "type": 3,
