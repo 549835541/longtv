@@ -491,6 +491,11 @@
   ],
   "parses": [
     {
+      "name": "龙龙┃最新┃解析",
+      "type": 0,
+      "url": "https://jx.xmflv.cc/?url="
+    },
+    {
       "name":"┃量子┃",
       "hosts":[".cdnlz",".lz"],
       "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.705700,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
