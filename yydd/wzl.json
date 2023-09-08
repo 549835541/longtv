@@ -20,18 +20,17 @@
       "changeable": 0
     },
     {
-      "key": "Qtv",
-      "name": "龙龙🐧腾腾┃解析",
-      "type": 3,
-      "api": "csp_Qtv",
+      "key": "t4_qq",
+      "name": "龙龙┃腾讯┃官",
+      "type": 4,
+      "api": "http://192.168.0.100:82/qqT4.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "filterable": 0
     },
     {
       "key": "Itv",
-      "name": "龙龙🥝爱爱┃解析",
+      "name": "龙龙🥝奇异┃官",
       "type": 3,
       "api": "csp_Itv",
       "quickSearch": 1,
@@ -41,7 +40,7 @@
     },
     {
       "key": "Mtv",
-      "name": "龙龙🍋芒芒┃解析",
+      "name": "龙龙🍋芒果┃官",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
