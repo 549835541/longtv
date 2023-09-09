@@ -629,7 +629,7 @@
     {
       "name": "┃龙龙🐉┃直播┃",
       "type": 0,
-      "url": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/tvlive.txt",
+      "url": "http://52bsj.vip:81/api/v3/file/get/168500/live.txt?sign=nRbiyL6P3ywURtP85yiSb1tx8VVx31d76Br0Gtg16UE%3D%3A0",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
