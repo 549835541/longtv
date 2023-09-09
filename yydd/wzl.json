@@ -145,6 +145,28 @@
        "jar": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/lib/🍮.jar;md5;2098f57bef26b98f7aa655802b5d395c"
     },
     {
+       "key": "🐾玩偶",
+       "name": "┃龙龙🐉┃玩偶┃",
+       "type": 3,
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "changeable": 1,
+       "api": "csp_Wogg",
+       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+       "jar": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/lib/🐾.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0"
+    },
+    {
+       "key": "🦊csp_WoGG",
+       "name": "🦊玩偶哥哥",
+       "type": 3,
+       "api": "csp_WoGG",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt$$$https://wogg.xyz/"
+    },
+    {
       "key": "迪迪",
       "name": "┃龙龙😎┃迪迪┃App┃",
       "api": "csp_AppYsV2",
@@ -493,11 +515,18 @@
   ],
   "parses": [
     {
+            "name": "┃龙龙┃哥哥┃",
+            "type": 1,
+            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+    },
+    {
             "name": "┃龙龙┃蓝光┃",
             "type": 0,
             "url": "https://www.pouyun.com/?url=",
             "ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header": {"User-Agent": "Dart/3.0(dart:io)"
-            }}},
+   }
+  }
+ },
     {
             "name": "┃龙龙┃腾腾┃4k┃",
             "type": 1,
