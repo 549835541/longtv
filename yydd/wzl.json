@@ -638,7 +638,7 @@
     {
       "name": "┃龙龙🐉┃直播iptv┃",
       "type": 0,
-      "url": "https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false",
+      "url": "https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?sign=9af1e454a4db4c0510ab69d07c524f05f78231c4",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
