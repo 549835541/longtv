@@ -618,6 +618,12 @@
   ],
   "lives": [
     {
+      "name": "┃龙龙🐉┃直播┃l┃",
+      "type": 0,
+      "url": "blob:https://github.com/bd265ea6-fa9b-4b72-9cd2-ac1a4f9befc4",
+      "epg": ""
+    },    
+    {
       "name": "┃龙龙🐉┃直播┃Global┃",
       "type": 0,
       "url": "https://jihulab.com/longtv/longtv/-/raw/main/global.m3u?inline=false",
