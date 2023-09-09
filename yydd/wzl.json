@@ -228,35 +228,7 @@
       "changeable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
-    {
-      "key": "陌陌",
-      "name": "┃龙龙🍄┃陌陌┃App┃",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://guan.yy365.vip/api.php/app/"
-    },
-    {
-      "key": "奇奇",
-      "name": "┃龙龙🍓┃奇奇┃App┃",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://ttsp.live/api.php/app/"
-    },
-    {
-      "key": "DiDuan",
-      "name": "┃龙龙⏮️┃低端┃直连┃",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
       "key": "77",
       "name": "┃龙龙👒┃七七┃App┃",
