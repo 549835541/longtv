@@ -48,19 +48,6 @@
       "changeable": 0
     },
     {
-       "key":"高清视界",
-       "name":"视界 | APP",
-       "type":3,
-       "api":"csp_AppYs",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1, 
-       "style":{
-       "type":"rect", 
-       "ratio":1.33 },             
-       "ext":"http://www.1080dyw.cc/api.php/v1.vod"       
-    },
-    {
       "key": "drpy_js_荐片",
       "name": "龙龙🐉┃荐片┃ ",
       "type": 3,
