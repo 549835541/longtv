@@ -641,10 +641,16 @@
             "url": "https://jihulab.com/longtv/longtv/-/raw/main/redirect.txt?inline=false",
             "epg": ""
         },
-                {
+        {
             "name": "┃龙龙🐉┃直播┃Global┃",
             "type": 0,
             "url": "https://jihulab.com/longtv/longtv/-/raw/main/global.m3u?inline=false",
+            "epg": ""
+        },
+        {
+            "name": "┃龙龙🐉┃直播┃Radio┃",
+            "type": 0,
+            "url": "https://jihulab.com/longtv/longtv/-/raw/main/index__2_.m3u?ref_type=heads",
             "epg": ""
         }
   ],
