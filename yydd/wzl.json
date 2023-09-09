@@ -626,18 +626,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "┃龙龙🐉┃影视┃",
-      "type": 0,
-      "url": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/tvlive.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    },
-    {
-      "name": "redirect",
-      "type": 0,
-      "url": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/redirect.txt",
-      "epg": ""
-    }
+        {
+            "name": "┃龙龙🐉┃直播┃",
+            "type": 0,
+            "url": "https://gitee.com/zhilongtv/longtv/blob/master/yydd/duoduo/tvlive.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        }
   ],
   "flags": [
     "youku",
