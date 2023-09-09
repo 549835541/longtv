@@ -640,6 +640,12 @@
             "type": 0,
             "url": "https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+        },        
+        {
+            "name": "redirect",
+            "type": 0,
+            "url": "https://jihulab.com/longtv/longtv/-/raw/main/redirect.txt?inline=false",
+            "epg": ""
         }
   ],
   "flags": [
