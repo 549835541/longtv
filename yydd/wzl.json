@@ -157,16 +157,6 @@
        "jar": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/lib/🐾.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0"
     },
     {
-       "key": "🦊csp_WoGG",
-       "name": "🦊玩偶哥哥",
-       "type": 3,
-       "api": "csp_WoGG",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt$$$https://wogg.xyz/"
-    },
-    {
       "key": "迪迪",
       "name": "┃龙龙😎┃迪迪┃App┃",
       "api": "csp_AppYsV2",
