@@ -640,6 +640,12 @@
             "type": 0,
             "url": "https://jihulab.com/longtv/longtv/-/raw/main/redirect.txt?inline=false",
             "epg": ""
+        },
+                {
+            "name": "┃龙龙🐉┃直播123┃",
+            "type": 0,
+            "url": "https://gitee.com/zhilongtv/longtv/raw/master/zhibo/zhibo.txt",
+            "epg": ""
         }
   ],
   "flags": [
