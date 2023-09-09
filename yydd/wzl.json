@@ -622,6 +622,12 @@
       "type": 0,
       "url": "https://jihulab.com/longtv/longtv/-/raw/main/global.m3u?inline=false",
       "epg": ""
+    },    
+    {
+      "name": "┃龙龙🐉┃直播┃无敌┃",
+      "type": 0,
+      "url": "https://jihulab.com/longtv/longtv/-/raw/main/v.txt?inline=false",
+      "epg": ""
     },
     {
       "name": "┃龙龙🐉┃live┃",
