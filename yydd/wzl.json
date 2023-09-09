@@ -635,15 +635,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "┃龙龙🐉┃直播iptv┃",
-      "type": 0,
-      "url": "https://jihulab.com/17335190109/tv/-/raw/main/tv.txt?inline=false",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+        {
+            "name": "┃龙龙🐉┃直播IPTV┃",
+            "type": 0,
+            "url": "https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+        },
   ],
   "flags": [
     "youku",
