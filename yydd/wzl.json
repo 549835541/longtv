@@ -198,16 +198,6 @@
       "changeable": 1
     },
     {
-      "key": "zxzj",
-      "name": "┃龙龙📗┃在线┃直连┃",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
       "key": "贱贱",
       "name": "┃龙龙🐭┃贱贱┃p2p┃",
       "type": 3,
@@ -237,16 +227,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "Lib",
-      "name": "┃龙龙🌟┃利播┃直连┃",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.fun/"
     },
     {
       "key": "AppMr",
