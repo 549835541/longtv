@@ -10,6 +10,26 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
     {
+      "key": "js_企鹅",
+      "name": "┃龙龙🐧┃企鹅┃大厂┃",
+      "type": 3,
+      "api": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/js/qtv.js"
+    },
+    {
+      "key": "js_优酷",
+      "name": "┃龙龙🐧┃油库┃大厂┃",
+      "type": 3,
+      "api": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/js/youku.js"
+    },
+    {
       "key": "teng",
       "name": "┃龙龙🐧┃腾讯┃官┃",
       "type": 3,
@@ -102,6 +122,42 @@
          "changeable":1,
          "ext":"http://jh.dytt996.com:990/api.php/app/"
     }, 
+    {
+         "key": "apv2_瑞丰",
+         "name": "┃龙龙🐉┃瑞丰┃影视┃",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+        {
+            "key": "js_在线之家",
+            "name": "🏞︎‍┃超前┃影视",
+            "type": 3,
+            "api": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/drpymin2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/js/zxzj.js"
+        },    {
+         "key": "js_baby",
+         "name": "┃龙龙🐉┃宝宝┃合集┃",
+         "type": 3,
+         "api": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/drpymin2.js",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/js/baby.js"
+    },
+    {
+      "key": "js_童趣",
+      "name": "┃龙龙🐉┃‍童趣┃搜视┃",
+      "type": 3,
+      "api": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/zhilongtv/longtv/raw/master/yydd/duoduo/js/tongqu.js"
+    },
     {
       "key": "🐿csp_KungFu4041",
       "name": "┃龙龙🐉┃Token设置┃",
