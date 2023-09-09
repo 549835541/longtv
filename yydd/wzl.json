@@ -267,16 +267,6 @@
       "ext": "https://api-aws.11ty.top"
     },
     {
-      "key": "csp_Nmys",
-      "name": "┃龙龙🌾┃农民┃直连┃",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://饭太硬.top/x/json/nmys.json"
-    },
-    {
       "key": "csp_Ysgc",
       "name": "┃龙龙🏭┃工场┃直连┃",
       "type": 3,
