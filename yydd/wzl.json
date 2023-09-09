@@ -618,6 +618,15 @@
   ],
   "lives": [
     {
+      "name": "┃龙龙🐉┃直播熊猫┃",
+      "type": 0,
+      "url": "https://jihulab.com/longtv/longtv/-/raw/main/fm.txt?inline=false",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "┃龙龙🐉┃live┃",
       "type": 0,
       "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
@@ -625,26 +634,17 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    },    
     {
-      "name": "┃龙龙🐉┃直播┃",
+      "name": "┃龙龙🐉┃直播┃Global┃",
       "type": 0,
-      "url": "http://52bsj.vip:81/api/v3/file/get/168500/live.txt?sign=nRbiyL6P3ywURtP85yiSb1tx8VVx31d76Br0Gtg16UE%3D%3A0",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "url": "https://jihulab.com/longtv/longtv/-/raw/main/global.m3u?inline=false",
+      "epg": ""
     },
     {
       "name": "┃龙龙🐉┃直播IPTV┃",
       "type": 0,
       "url": "https://jihulab.com/longtv/longtv/-/raw/main/redirect.txt?inline=false",
-      "epg": ""
-    },
-    {
-      "name": "┃龙龙🐉┃直播┃Global┃",
-      "type": 0,
-      "url": "https://jihulab.com/longtv/longtv/-/raw/main/global.m3u?inline=false",
       "epg": ""
     }
   ],
