@@ -618,6 +618,12 @@
   ],
   "lives": [
     {
+      "name": "┃龙龙🐉┃直播┃wudi┃",
+      "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/v.txt",
+      "epg": ""
+    },     
+    {
       "name": "┃龙龙🐉┃直播┃Global┃",
       "type": 0,
       "url": "https://jihulab.com/longtv/longtv/-/raw/main/global.m3u?inline=false",
