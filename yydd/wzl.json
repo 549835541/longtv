@@ -630,6 +630,12 @@
       "epg": ""
     },    
     {
+      "name": "┃龙龙🐉┃直播┃TV┃",
+      "type": 0,
+      "url": "https://jihulab.com/longtv/longtv/-/raw/main/tv.txt?inline=false",
+      "epg": ""
+    },     
+    {
       "name": "┃龙龙🐉┃live┃",
       "type": 0,
       "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
