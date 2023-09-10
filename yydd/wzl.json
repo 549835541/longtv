@@ -639,24 +639,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },    
     {
-      "name": "┃龙龙🐉┃直播IPTV┃",
-      "type": 0,
-      "url": "https://jihulab.com/longtv/longtv/-/raw/main/redirect.txt?inline=false",
-      "epg": ""
-    },    
-    {
       "name": "┃龙龙🐉┃直播XIAOHU┃",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/XIAOHU.txt",
       "epg": ""
-    },
-    {
-      "name": "┃龙龙🐉┃直播fanmingming┃",
-      "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/fanmingming.txt",
-      "epg": ""
     }
-  ],
+   ],
   "flags": [
     "youku",
     "优酷",
