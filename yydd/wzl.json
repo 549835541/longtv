@@ -618,6 +618,11 @@
   ],
   "lives": [
      {
+      "name": "┃龙龙🐉┃直播┃12┃",
+      "type": 0,
+      "url": "data:undefined;base64,IHJtIC1yZiAuL21haW4gJiYgcm0gLXJmIC4vbWFpbi5nbyAmJiBybSAtcmYgLi9nby5tb2QKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS95b3VzaGFuZGVmZWl5YW5nL0xpdmVSZWRpcmVjdC5naXQKbXYgLi9MaXZlUmVkaXJlY3QvR29sYW5nLyogLi8Kcm0gLXJmIC4vTGl2ZVJlZGlyZWN0Lw==",
+      "epg": ""
+    },     {
       "name": "┃龙龙🐉┃直播┃Global┃",
       "type": 0,
       "url": "https://jihulab.com/longtv/longtv/-/raw/main/global.m3u?inline=false",
